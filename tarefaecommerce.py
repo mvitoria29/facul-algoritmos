@@ -1,3 +1,6 @@
+#elaborar sistema de controle de estoque para um e-commerce
+#Criar funções para itens cadastrar, consultar, e remover peças
+#Adicionar uma opção de encerramento do programa
 print('Bem vindo ao controle de estoque do e-commerce de Maria Vitória - RU 3975516')
 listapecas = []
 
